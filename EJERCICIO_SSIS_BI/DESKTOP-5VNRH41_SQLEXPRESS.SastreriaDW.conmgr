@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-5VNRH41_SQLEXPRESS.SastreriaDW"
+  DTS:DTSID="{5C05E1AF-7F0D-43F3-AE74-6C7812BEDDE1}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-5VNRH41\SQLEXPRESS;Initial Catalog=SastreriaDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-EJERCICIO_SSIS_BI-{5C05E1AF-7F0D-43F3-AE74-6C7812BEDDE1}DESKTOP-5VNRH41\SQLEXPRESS.SastreriaDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
